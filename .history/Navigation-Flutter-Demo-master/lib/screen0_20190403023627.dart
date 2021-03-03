@@ -14,7 +14,9 @@ class Screen0 extends StatelessWidget {
             RaisedButton(
               color: Colors.red,
               child: Text('Go To Screen 1'),
-              onPressed: () {},
+              onPressed: () {
+                //Navigate to Screen 1
+              },
             ),
             RaisedButton(
               color: Colors.blue,
